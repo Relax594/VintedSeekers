@@ -1,5 +1,6 @@
 # Welcome to VintedSeekers Discord Server!
 
+⚠️ The code is not open source, to be able to obtain the bot open a ticket on our discord server:
 [Join Now](https://discord.gg/QHUzScS7Fj)
 
 ## Features:

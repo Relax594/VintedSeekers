@@ -1,6 +1,6 @@
 # Welcome to VintedSeekers Discord Server!
 
-⚠️ The code is not open source, to be able to obtain the bot open a ticket on our discord server:
+⚠️ The code is not open source, to be able to obtain the Vinted bot open a ticket on our discord server:
 [Join Now](https://discord.gg/QHUzScS7Fj)
 
 ## Features:
@@ -37,7 +37,9 @@ Join our Discord server now! Let's revolutionize the way you navigate the world 
 
 **Is the bot equipped with 0 delay?** Yes, this Vinted bot is equipped with 0 delay technology, announcements arrive instantly with a notification.
 
-**Can I refer a friend?** Yes, you can refer a friend! And the best about this is, that you receive a free month in return!
+**Do you support my Vinted region?** This Vinted bot supports every Vinted region in existance.
+
+**Can I refer a friend?** Yes, you can refer a friend! And the best about this is, that you receive a **free** month in return!
 
 [Join Now](https://discord.gg/QHUzScS7Fj)
 

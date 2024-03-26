@@ -1,5 +1,5 @@
 # Welcome to VintedSeekers Discord Server!
-![banner_features](https://github.com/Relax594/VintedSeekers/assets/22765758/565ea13c-4dbb-4069-b008-f3e51cc321a8)
+[![banner_features](https://github.com/Relax594/VintedSeekers/assets/22765758/565ea13c-4dbb-4069-b008-f3e51cc321a8)](https://discord.gg/QHUzScS7Fj)
 
 ⚠️ The code is not open source, to be able to obtain the Vinted bot open a ticket on our discord server ⚠️
 

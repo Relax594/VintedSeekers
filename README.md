@@ -33,5 +33,14 @@ Join our Discord server now! Let's revolutionize the way you navigate the world 
 
 [Join Now](https://discord.gg/QHUzScS7Fj)
 
+## FAQ
+
+**Is the bot equipped with 0 delay?** Yes, this Vinted bot is equipped with 0 delay technology, announcements arrive instantly with a notification.
+
+**Can I refer a friend?** Yes, you can refer a friend! And the best about this is, that you receive a free month in return!
+
+[Join Now](https://discord.gg/QHUzScS7Fj)
+
+## Discord Notifications
 ![Screenshot 2024-03-09 085717](https://github.com/Relax594/VintedSeekers/assets/22765758/0c707ce5-3d3b-42f7-8ff3-8cae63403a0e)
 ![Screenshot 2024-03-09 084228](https://github.com/Relax594/VintedSeekers/assets/22765758/ec82b543-b701-4749-857b-95099a5f0671)

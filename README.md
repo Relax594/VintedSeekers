@@ -1,50 +1,132 @@
-# Welcome to VintedSeekers! - 0 Delay Vinted Alerts and Autobuy Bot
-[![banner_features](https://github.com/Relax594/VintedSeekers/assets/22765758/565ea13c-4dbb-4069-b008-f3e51cc321a8)](https://discord.gg/QHUzScS7Fj)
+# ⚡️ VintedSeekers Sniper Bot – 0 Delay, Autobuy, Full Automation ⚡️ 
+![vinted_seekers_banner](https://github.com/user-attachments/assets/aeff1aed-8114-4e3f-87da-89ad4ec3b0d1)
 
 ⚠️ The code is not open source, to be able to obtain the Vinted bot open a ticket on our discord server ⚠️
 
-[Join Now](https://discord.gg/QHUzScS7Fj)
+The **most advanced Vinted Sniper bot** built for resellers, collectors, and power users.  
+Automate your entire workflow with **Autobuy**, **0-delay monitoring**, and full **multi-account support** — all in one tool.  
+Whether you're flipping sneakers, vintage fashion, or niche finds, this bot helps you stay **faster and smarter** than the competition.
 
-## Features:
+➡️ [**Join the Discord & Get Started Instantly**](https://discord.gg/QHUzScS7Fj)
 
-- **Real-Time Notifications:** Stay ahead with instant updates on new listings and exclusive offers.
+---
 
-- **Detailed Item Insights:** Dive deep into each item with comprehensive information, images, and key details.
+## 💎 Vinted Sniper Features
 
-- **Buy and Message Functionalities:** Initiate transactions and communicate with just a click.
+### 🚀 **0 Delay Monitoring** for Vinted  
+- Custom sniper engine detects listings with **as little as 2.5 seconds of delay**  
+- Real-world detection rate: **94%+**  
+> ⚠️ Many missed items are deleted by Vinted instantly (policy removals), so actual detection performance may be even better!
 
-- **Unlimited Filter Options:** Tailor your searches to perfection with a wide range of filter choices.
+---
 
-- **Advanced Autobuy Feature:** Gain a competitive edge with our automated purchasing system.
+### 📡 **Monitor Anything on Vinted**  
+- Track **any item** with **your own Vinted search links**  
+- Add **complex filters** like size, price, brand, and condition  
+- 🌍 **Auto-detects location** from your Vinted domain (.de, .fr, etc.)  
 
-- **Privacy Focus:** Create a private area to hide your activities. No one will see your filters, notifications, and purchases.
+✅ [**Click here to join the Discord and start monitoring smarter**](https://discord.gg/QHUzScS7Fj)
 
-## Why Choose Us?
+---
 
-1. **Seamless Experience:** Our Vinted Bot enhances your trading journey with efficiency and ease.
+### 💬 **AutoChat – Vinted Messaging on Autopilot**  
+- Auto-message **buyers** who favorite your items  
+- Send **custom seller messages** after each Autobuy  
+- Automate outreach and boost your sales — without lifting a finger
 
-2. **Informed Decision-Making:** Make well-informed decisions with detailed insights and real-time notifications.
+---
 
-3. **Efficient Transactions:** Buy and communicate with just a click for a streamlined experience.
+### 🛒 **Autobuy with 1 Click**  
+- Instantly purchase items that match your filters — **right from Discord**  
+- **No browser needed**, no hesitation  
+- Optional upgrade: **Fully Automated Sniper** that does this for you 24/7!
 
-4. **Global Support:** We support every Vinted region, ensuring our services cater to your location.
+🔥 [**Join the Discord and try Autobuy now**](https://discord.gg/QHUzScS7Fj)
 
-## Ready to Elevate Your Vinted Experience?
+---
 
-Join our Discord server now! Let's revolutionize the way you navigate the world of online fashion trading.
+### 🔫 **Sniper On-Demand or Fully Automated**  
+- Enable Sniper per private channel  
+- Optional **Auto-Sniper Module**: buys every matching item **automatically**, even while you sleep  
+- Perfect for high-speed, low-margin flips
 
-[Join Now](https://discord.gg/QHUzScS7Fj)
+---
 
-## FAQ
+### 👥 **Multi-Account Support**  
+Use separate Vinted accounts for:
+- 🛍️ Buying (sniping, Autobuy)  
+- 💼 Selling (AutoChat, tracking favorites)  
+All inside the same interface, no switching back and forth
 
-**Is the bot equipped with 0 delay?** Yes, this Vinted bot is equipped with 0 delay technology, announcements arrive instantly with a notification.
+---
 
-**Do you support my Vinted region?** This Vinted bot supports every Vinted region in existance.
+### 📁 **Private Channel Setup**  
+Each channel supports:
+- 🔗 Up to 8 search links  
+- 🔑 Unlimited keyword filters  
+- 🛑 Channel-specific blacklists  
+- 🎯 Sniper toggle per channel  
 
-**Can I refer a friend?** Yes, you can refer a friend! And the best about this is, that you receive a **free** month in return!
+Plans include:
+- Solo: Up to **4 channels**  
+- Friends & Family: Up to **50 channels**
 
-[Join Now](https://discord.gg/QHUzScS7Fj)
+---
+
+### ✏️ **Customizable Filters + Blacklists**  
+- Add, remove, and edit filters live  
+- Use **blacklisted keywords** to filter out unwanted items  
+- Each channel has its own filter logic  
+
+---
+
+### ⚙️ **Optimized User Experience**  
+- Smart feedback when adding search links  
+- Setup takes minutes, not hours  
+- Designed for fast scaling and zero clutter
+
+---
+
+### 📚 **Guides + 24/7 Support**  
+- Dozens of tutorials for every feature  
+- Full setup walkthroughs  
+- 24/7 ticket support when you need help
+
+🎓 [**Need help? Join the Discord for guides & live support**](https://discord.gg/QHUzScS7Fj)
+
+---
+
+## 🎉 Limited-Time Offer  
+Use code **`SAVE10`** to get **10% OFF** your subscription!  
+🕒 Offer valid for the next **48 hours only!**
+
+---
+
+## ❓ FAQ – Vinted Autobuy, Sniper & More
+
+### 📌 What’s the delay on detection?  
+Average delay is **~2.5 seconds**. One of the fastest Vinted bots available.
+
+### 📌 Can I set my Vinted location manually?  
+No need — your **location is automatically detected** from your Vinted link (.de, .fr, etc.)
+
+### 📌 How does Autobuy work?  
+Click a button in Discord to instantly purchase the item. Or upgrade to the **Auto-Sniper** for full automation.
+
+### 📌 Is this safe for my Vinted account?  
+All actions are designed to mimic normal user behavior — no scraping, no API abuse.
+
+### 📌 Can I run multiple accounts?  
+Yes — fully supports separate accounts for **buying and selling**, all managed inside the bot.
+
+---
+
+## 🔗 Ready to Snipe Like a Pro?  
+Join the community, automate your flips, and stay ahead of the rest.  
+Click below to get started:
+
+🎯 [**Start Sniping with 0 Delay, Autobuy, and Full Automation**](https://discord.gg/QHUzScS7Fj)
 
 ## Discord Notifications
-![Screenshot 2024-03-09 085717](https://github.com/Relax594/VintedSeekers/assets/22765758/0c707ce5-3d3b-42f7-8ff3-8cae63403a0e)
-![Screenshot 2024-03-09 084228](https://github.com/Relax594/VintedSeekers/assets/22765758/ec82b543-b701-4749-857b-95099a5f0671)
+![image](https://github.com/user-attachments/assets/0ae2ed8e-2766-4153-a702-6c57ced50ea0)
+![image](https://github.com/user-attachments/assets/0affd59a-8fc2-4b50-aae0-7eea4f3ae1ea)

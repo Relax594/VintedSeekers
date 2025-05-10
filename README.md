@@ -14,7 +14,7 @@ Whether you're flipping sneakers, vintage fashion, or niche finds, this bot help
 ## 💎 Vinted Sniper Features
 
 ### 🚀 **0 Delay Monitoring** for Vinted  
-- Custom sniper engine detects listings with **as little as 2.5 seconds of delay**  
+- Custom sniper engine detects listings with **as little as 2 seconds of delay**  
 - Real-world detection rate: **94%+**  
 > ⚠️ Many missed items are deleted by Vinted instantly (policy removals), so actual detection performance may be even better!
 
@@ -64,7 +64,7 @@ All inside the same interface, no switching back and forth
 Each channel supports:
 - 🔗 Up to 8 search links  
 - 🔑 Unlimited keyword filters  
-- 🛑 Channel-specific blacklists  
+- 🛑 Link-specific blacklists  
 - 🎯 Sniper toggle per channel  
 
 Plans include:
@@ -76,7 +76,14 @@ Plans include:
 ### ✏️ **Customizable Filters + Blacklists**  
 - Add, remove, and edit filters live  
 - Use **blacklisted keywords** to filter out unwanted items  
-- Each channel has its own filter logic  
+- Each link has its own filter logic  
+
+---
+
+### 🚫 **Seller Whitelist + Blacklist Control**
+- Whitelist sellers to monitor trusted accounts
+- Blacklist scammers, pro sellers, and repeat offenders
+- Rules apply per link for maximum precision
 
 ---
 
@@ -97,8 +104,7 @@ Plans include:
 ---
 
 ## 🎉 Limited-Time Offer  
-Use code **`SAVE10`** to get **10% OFF** your subscription!  
-🕒 Offer valid for the next **48 hours only!**
+Use code **`SAVE10`** to get **10% OFF** your subscription!
 
 ---
 
@@ -129,4 +135,5 @@ Click below to get started:
 
 ## Discord Notifications
 ![image](https://github.com/user-attachments/assets/0ae2ed8e-2766-4153-a702-6c57ced50ea0)
-![image](https://github.com/user-attachments/assets/0affd59a-8fc2-4b50-aae0-7eea4f3ae1ea)
+![image](https://github.com/user-attachments/assets/a521f0ce-b11b-450f-bf5d-ee9530b2a16f)
+
